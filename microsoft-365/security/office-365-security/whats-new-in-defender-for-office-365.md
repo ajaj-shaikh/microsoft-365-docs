@@ -62,6 +62,7 @@ For more information on what's new with other Microsoft Defender security produc
 - This change impacts all users who log in to the Office 365 Security and Compliance portal (protection.office.com), including security teams and end-users who access the Email Quarantine experience, at the **Microsoft Defender Portal** > **Review** > **Quarantine**.
 - Redirection is enabled by default and impacts all users of the Tenant.
 - Global Administrators and Security Administrators can turn on or off redirection in the Microsoft 365 Defender portal by navigating to **Settings** > **Email & collaboration** > **Portal redirection** and switch the redirection toggle.
+- Bulk Complaint Level is now available in Advanced Hunting under EmailEvents table containing numeric BCL values from 0 to 9 with higher BCL score indivating the bulk message is likely to generate more complaints
 
 ## July 2022
 
