@@ -62,7 +62,7 @@ This feature is only available if you have an active Office 365 E5 subscription 
 When you turn on this feature, you'll be able to incorporate data from Microsoft Defender for Office 365 into Microsoft 365 Defender to conduct a comprehensive security investigation across Office 365 mailboxes and Windows devices.
 
 > [!NOTE]
-> You'll need to have the appropriate license to enable this feature.
+> This feature does not hold any functionality now in the new security.microsoft.com portal and will be deprecated soon. Users are advised not to use it.
 
 To receive contextual device integration in Office 365 Threat Intelligence, you'll need to enable the Defender for Endpoint settings in the Security & Compliance dashboard. For more information, see [Use Microsoft Defender for Office 365 together with Microsoft Defender for Endpoint](/microsoft-365/security/office-365-security/integrate-office-365-ti-with-mde).
 
